@@ -1,0 +1,12 @@
+title: Cloudy with a Chance of Meatballs
+originalAuthor: Shananas
+description:
+assets:
+- name: obj/B_EX100.mdlx
+  method: copy
+  source:
+   - name: obj/B_EX100.mdlx
+- name: obj/B_NM000.mdlx
+  method: copy
+  source:
+   - name: obj/B_NM000.mdlx
