@@ -1,6 +1,6 @@
 title: Cloudy with a Chance of Meatballs
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: obj/B_EX100.mdlx
   method: copy
